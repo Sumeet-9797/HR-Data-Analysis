@@ -11,9 +11,9 @@ To enable HR leadership to make data-driven decisions related to workforce plann
 Key Insights
 
 Total Headcount: 161 Employees
-Average Salary: ₹54.2K
+Average Salary: $54.2K
 Gender Distribution: 55% Female, 45% Male
-Salary Range: ₹28,900 – ₹85,000
+Salary Range: $28,900 – $85,000
 Highest Paying Role: Product Manager
 Workforce Growth observed from 2018–2023
 Operational roles have highest headcount
